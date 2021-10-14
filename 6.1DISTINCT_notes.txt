@@ -1,4 +1,0 @@
-DISTINCT -para omitir dados duplicados de uma tabela, retornará apenas dados únicos.
-
-SELECT DISTINCT NomedaColuna, OutraColua
-FROM NomedaTabela
